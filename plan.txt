@@ -1,0 +1,8 @@
+Plan of attack
+1). Create nueral net with cell and compound type (one hot encoded)
+as inputs and expression values as outputs. 
+Use normalized outputs and remove controls.
+2). Experiment with different models and with removing outliers
+3). Figure out how to use SMILES data
+4). Figure out how to control for location on plate 
+5). Look into meta data??
