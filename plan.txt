@@ -6,3 +6,21 @@ Use normalized outputs and remove controls.
 3). Figure out how to use SMILES data
 4). Figure out how to control for location on plate 
 5). Look into meta data??
+
+
+
+Spencer - has tried what he wants to try 
+Hamilton - maybe steel some stuff from the submitted models 
+Heidi - correction for the cell plates
+Submisison with all zeros 
+Averages Submissions 
+
+
+Introduction/background knowledge - -Heidi
+Data Expoloration - - Hamilton
+"Dummy" Submissions/ averging submissions - - Spencer
+Models we considered/why we thought that a machine leanring model would work the best - - Hamilton  
+The Machine learning model we chose and things we did to try to improve it (adding dropout layers and a shcedular) - - Spencer 
+Attempting to invove additional variables/add complexity  - - Heidi
+Best model / final results - - Spencer
+Conclusion, how we felt we did, further areas of study - - Hamilton
